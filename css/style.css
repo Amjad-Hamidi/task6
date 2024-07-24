@@ -17,7 +17,7 @@ h2 {
 }
 
 .product-card {
-    width: 22%;
+    width: 23.5%;
     border: 1px solid #ddd;
     margin: 1px;
     padding: 10px;
@@ -79,9 +79,6 @@ h2 {
 }
 
 
-.fa-heart {
-    color:blue;
-}
 
 .clearfix{
     clear:left;
