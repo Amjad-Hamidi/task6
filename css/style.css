@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.product-card {
+    width: 23.3%;
+    border: 1px solid #ddd;
+    margin: 1px;
+    padding: 10px;
+    float: left;
+    text-align: left;
+    background-color: #fff;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.product-card h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.product-card p {
+    margin: 10px 0;
+    color: #555;
+    width: 85%;
+}
+
+.price {
+    margin: 10px 0px;
+}
+
+.new-price {
+    color: green;
+    font-size: 1.2em;
+}
+
+.old-price {
+    color: red;
+    margin-left: 10px;
+}
+
+.button-container {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.add-to-cart {
+    background-color: blue;
+    color: white;
+    padding: 15px 50px;
+    border:none;
+    font-size: 1em;
+}
+
+
+
+.love-icon {
+    background-color: white;
+    color: blue;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+.fa-heart {
+    color:blue;
+}
+
+.clearfix{
+    clear:left;
+}
